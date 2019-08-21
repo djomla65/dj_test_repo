@@ -1,2 +1,2 @@
 # dj_test_repo
-DJ Test Repository
+This is DJ's test repository
